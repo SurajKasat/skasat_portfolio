@@ -1,5 +1,6 @@
-html {
-	background: papayawhip;
+html{
+	background-image: url(backgroung.jpg);
+	background-size: 100%;
 }
 
 a{
@@ -101,9 +102,17 @@ background-color: black;
 	position: fixed;
 }
 
+.disclaimer {
+	color: white;
+	top: 109%;
+	padding-left: 35px;
+	padding-bottom: 0px;
+	position: absolute;
+}
+
 .ul2 {
 	bottom: 0px;
-	padding-bottom: 14px;
+	padding-bottom: 10px;
 }
 
 .ul2 {
@@ -111,33 +120,48 @@ background-color: black;
 	float: right;
 	height: 60px;
 	width: 100%;
-	float: left;
 	text-align: center;
 }
 
-.disclaimer {
+.footer_text {
+	bottom: 0px;
+	left: 50px;
 	color: white;
-	top: 100%;
-	padding-left: 35px;
-	padding-bottom: 0px;
-	position: absolute;
 }
 
-.body_text {
-	background-color: rgb(140,140,140);
-	width: 35%;
-	color: deepskyblue;
-	margin-left: 40px;
-	padding: 5px;
+.main_body {
+	background-color: papayawhip;
+	padding-top: 60px;
+	margin-top: 190px;
+	color: black;
+	width: 78%;
+	margin: 0 auto;
+	padding-bottom: 10px;
+	text-align: center;
 }
 
-.body_text_p {
-	font-size: 17px;
+.par {
+	width: 65%;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 30px;
 }
 
-.main_body{
-	background: url(startup.jpg);
-	background-size: cover;
-	padding-top: 12%;
-	height: 530px;
+h4 a {
+	color: black;
+}
+
+h4 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-image: url(https://1.bp.blogspot.com/-zbISEAKxuHk/VC9GW73jLGI/AAAAAAAAVy4/Z50jPwbRqlE/s1600/wood_repeatable.jpg);
+	width: 65%;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+}
+
+h2 {
+	font-size: 34px;
 }
