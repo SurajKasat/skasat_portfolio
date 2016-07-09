@@ -102,7 +102,28 @@ background-color: black;
 	color: white;
 }
 
-p {
-	width: 10%;
+.mainimage {
+	width: 100%;
+	margin-top: 72px;
+	margin-left: 00px;
+	margin-bottom: 00px;
+	position: static;
 }
 
+.body_text {
+	background-color: rgb(140,140,140);
+	width: 40%;
+	color: deepskyblue;
+	margin-left: 40px;
+}
+
+.body_text_p {
+	font-size: 20px;
+}
+
+.main_body{
+	background: url(startup.jpg);
+	background-size: cover;
+	padding-top: 140px;
+	height: 550px;
+}

@@ -1,0 +1,104 @@
+a{
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+}
+
+h1 a {
+	color: deepskyblue;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration: text-size: 30px;
+}
+
+h1 a:hover {
+text-decoration: none;
+}
+
+h1 {
+	padding-top: 4px;
+	width: 100%;
+	margin-top: 0;
+	color: yellow;
+	font-family: helvetica;
+	font-size: 60px;
+	margin-left: 15%;
+}
+
+header{
+	top: 0;
+	left: 0;
+	background-color: black;
+	height: 80px;
+	position: fixed;
+	width: 100%;
+
+}
+
+.ul1 {
+	list-style-type: none; 
+	margin-top: 0px;
+	margin-left: 74%;
+	float: right; 
+	top: 2px;
+	position: fixed;
+	font-size: 15px;
+}
+
+li {
+display: inline;
+padding-right: 15px;
+margin-top: 0px;
+background-color: black;
+}
+
+.social_media_icon1 {
+	float: left;
+	margin-top: 35px;
+	margin-left: 78%;
+	float: right; 
+	top: 5px;
+	height: 5%;
+	position: fixed;
+}
+
+.social_media_icon2 {
+	float: left;
+	margin-top: 35px;
+	margin-left: 81%;
+	float: right; 
+	top: 5px;
+	height: 5%;
+	position: fixed;
+}
+
+.social_media_icon3 {
+	float: left;
+	margin-top: 35px;
+	margin-left: 84%;
+	float: right; 
+	top: 5px;
+	height: 5%;
+	position: fixed;
+}
+
+.ul2 {
+	bottom: 0px;
+	padding-bottom: 10px;
+}
+
+.ul2 {
+	background-color: black;
+	float: right;
+	height: 60px;
+	width: 100%;
+}
+
+.footer_text {
+	bottom: 0px;
+	left: 50px;
+	color: white;
+}
+
