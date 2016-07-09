@@ -103,7 +103,7 @@ background-color: black;
 
 .ul2 {
 	bottom: 0px;
-	padding-bottom: 10px;
+	padding-bottom: 14px;
 }
 
 .ul2 {
@@ -111,12 +111,15 @@ background-color: black;
 	float: right;
 	height: 60px;
 	width: 100%;
+	float: left;
 }
 
-.footer_text {
-	bottom: 0px;
-	left: 50px;
+.disclaimer {
 	color: white;
+	top: 100%;
+	padding-left: 35px;
+	padding-bottom: 0px;
+	position: absolute;
 }
 
 .body_text {
@@ -135,5 +138,5 @@ background-color: black;
 	background: url(startup.jpg);
 	background-size: cover;
 	padding-top: 12%;
-	height: 500px;
+	height: 530px;
 }
