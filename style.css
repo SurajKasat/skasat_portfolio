@@ -4,6 +4,10 @@ a{
 	font-family: arial;
 }
 
+h1 a {
+	color: deepskyblue;
+}
+
 a:hover {
 	text-decoration: underline;
 	text-decoration: text-size: 30px;
@@ -14,6 +18,7 @@ text-decoration: none;
 }
 
 h1 {
+	padding-top: 4px;
 	width: 100%;
 	margin-top: 0;
 	color: yellow;
@@ -23,6 +28,8 @@ h1 {
 }
 
 header{
+	top: 0;
+	left: 0;
 	background-color: black;
 	height: 80px;
 	position: fixed;
@@ -30,12 +37,12 @@ header{
 
 }
 
-ul {
+.ul1 {
 	list-style-type: none; 
-	margin-top: 15px;
+	margin-top: 0px;
 	margin-left: 74%;
 	float: right; 
-	top: 5px;
+	top: 2px;
 	position: fixed;
 	font-size: 15px;
 }
@@ -50,7 +57,7 @@ background-color: black;
 .social_media_icon1 {
 	float: left;
 	margin-top: 35px;
-	margin-left: 77%;
+	margin-left: 78%;
 	float: right; 
 	top: 5px;
 	height: 5%;
@@ -60,7 +67,7 @@ background-color: black;
 .social_media_icon2 {
 	float: left;
 	margin-top: 35px;
-	margin-left: 80.5%;
+	margin-left: 81%;
 	float: right; 
 	top: 5px;
 	height: 5%;
@@ -76,3 +83,26 @@ background-color: black;
 	height: 5%;
 	position: fixed;
 }
+
+.ul2 {
+	bottom: 0px;
+	padding-bottom: 10px;
+}
+
+.ul2 {
+	background-color: black;
+	float: right;
+	height: 60px;
+	width: 100%;
+}
+
+.footer_text {
+	bottom: 0px;
+	left: 50px;
+	color: white;
+}
+
+p {
+	width: 10%;
+}
+
