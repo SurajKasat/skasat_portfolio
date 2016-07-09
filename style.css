@@ -1,0 +1,52 @@
+a{
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration: text-size: 30px;
+}
+
+h1 {
+	width: 100%;
+	margin-top: 0;
+	color: yellow;
+	font-family: helvetica;
+	font-size: 60px;
+	margin-left: 170px;
+}
+
+header{
+	background-color: green;
+	height: 80px;
+
+}
+
+ul {
+	list-style-type: none; 
+	margin-top: 15px;
+	margin-left: 74%;
+	float: right; 
+	top: 5px;
+	position: fixed;
+	font-size: 15px;
+}
+
+li {
+display: inline;
+padding-right: 15px;
+margin-top: 0px;
+background-color: green;
+}
+
+.social_media_icon {
+	margin-top: 35px;
+	margin-left: 74%;
+	float: right; 
+	top: 5px;
+	position: fixed;
+	width: 5%;
+	height: 5%;
+}
