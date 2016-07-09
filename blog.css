@@ -1,3 +1,7 @@
+html {
+	background: lightgoldenrodyellow
+}
+
 a{
 	text-decoration: none;
 	color: white;
@@ -17,14 +21,27 @@ h1 a:hover {
 text-decoration: none;
 }
 
+.logo {
+	position: fixed;
+	left: 10px;
+	width: 70px;
+	top: 5px;
+}
+
 h1 {
 	padding-top: 4px;
 	width: 100%;
 	margin-top: 0;
-	color: yellow;
 	font-family: helvetica;
-	font-size: 60px;
-	margin-left: 15%;
+	font-size: 42px;
+	margin-left: 90px;
+}
+
+h3 {
+color: deepskyblue;
+position: fixed;
+top: 35px;
+padding-left: 90px;
 }
 
 header{
@@ -101,4 +118,3 @@ background-color: black;
 	left: 50px;
 	color: white;
 }
-
