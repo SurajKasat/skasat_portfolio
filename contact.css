@@ -1,5 +1,5 @@
 html {
-	background: lightgoldenrodyellow
+	background: papayawhip;
 }
 
 a{
@@ -103,10 +103,11 @@ background-color: black;
 
 .disclaimer {
 	color: white;
-	top: 100%;
+	top: 94%;
 	padding-left: 35px;
 	padding-bottom: 0px;
 	position: absolute;
+}
 
 .ul2 {
 	bottom: 0px;
@@ -125,4 +126,19 @@ background-color: black;
 	bottom: 0px;
 	left: 50px;
 	color: white;
+}
+
+.main_body {
+	padding-top: 150px;
+	width: 70%;
+	margin: 0 auto;
+	padding-bottom: 80px;
+}
+
+.mail {
+	color: black;
+}
+
+h4 {
+	font-size: 40px;
 }
