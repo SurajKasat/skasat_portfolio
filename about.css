@@ -18,9 +18,7 @@ a:hover {
 	text-decoration: text-size: 30px;
 }
 
-h3 {
-	color: red;
-}
+
 
 h1 a:hover {
 text-decoration: none;
@@ -108,14 +106,10 @@ background-color: black;
 
 .disclaimer {
 	color: white;
-	top: 100%;
+	top: 1450px;
 	padding-left: 35px;
 	padding-bottom: 0px;
 	position: absolute;
-
-.ul2 {
-	bottom: 0px;
-	padding-bottom: 10px;
 }
 
 .ul2 {
@@ -123,10 +117,65 @@ background-color: black;
 	float: right;
 	height: 60px;
 	width: 100%;
+	bottom: 0px;
+	padding-bottom: 10px;
 }
 
 .footer_text {
 	bottom: 0px;
 	left: 50px;
 	color: white;
+}
+
+.imf {
+	width: 45%;
+	float: left;
+	padding-left: 30px;
+	height: 400px;
+	padding-bottom: 40px;
+}
+
+
+.imf2 {
+	width: 45%;
+	float: right;
+	height: 400px;
+	padding-bottom: 40px;
+}
+
+.section1 {
+	margin-top: 100px;
+	clear: left;
+}
+
+.section2 {
+	clear: left;
+}
+
+.section3 {
+	clear: right;
+}
+
+.p1 {
+	width: 40%;
+	float: right;
+	margin-top: 0px;
+}
+
+.p2 {
+	width: 40%;
+	float: left;
+	margin-top: 0px;
+}
+
+.h2_1{
+	padding-left: 730px;
+}
+
+.h2_2{
+	padding-left: 360px;
+}
+
+h2 {
+	background-color: green;
 }
